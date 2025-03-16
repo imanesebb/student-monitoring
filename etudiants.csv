@@ -1,0 +1,68 @@
+ID,Nom,Prénom,Email,Matière,Note
+1,sebbar,imane,imanensebbar@icloud.com,MATH,20.0
+2,lasheen,anas,anaslasheen@gmail.com,MATH,20.0
+3,Kaabi,Fatima,fatima.ka@example.com,MATH,14.0
+4,Dosari,Ahmed,ahmed.d@example.com,Chimie,12.0
+5,Shammari,Ali,ali.sh@example.com,MATH,18.0
+6,Zahrani,Nada,nada.z@example.com,Chimie,15.0
+8,Ghamdi,Mariam,mariam.gh@example.com,MATH,17.0
+9,dani,Khaled,khaled.qa@example.com,eng,16.0
+10,Mutairi,Salma,salma.mt@example.com,eng,14.0
+11,Benali,Omar,omar.benali@example.com,MATH,19.0
+12,Haddad,Sara,sara.haddad@example.com,Physique,16.0
+13,Abbassi,Youssef,youssef.abbassi@example.com,Chimie,13.0
+14,Lamrani,Leila,leila.lamrani@example.com,Biologie,17.0
+15,Bouhadi,Rachid,rachid.bouhadi@example.com,Informatique,18.0
+16,Derouiche,Hanae,hanae.derouiche@example.com,Math,15.0
+17,Alami,Khalil,khalil.alami@example.com,Chimie,11.0
+18,Fassi,Samira,samira.fassi@example.com,Physique,19.0
+19,El Ghazali,Tarik,tarik.ghazali@example.com,Math,20.0
+20,Mokhtari,Nour,nour.mokhtari@example.com,Informatique,16.0
+21,Zouhair,Imane,imane.zouhair@example.com,Chimie,14.0
+22,El Mansouri,Adil,adil.mansouri@example.com,Math,13.0
+23,Berrada,Meriem,meriem.berrada@example.com,Physique,18.0
+24,Touhami,Sami,sami.touhami@example.com,Informatique,17.0
+25,Mezouar,Salim,salim.mezouar@example.com,Math,16.0
+26,Idrissi,Hind,hind.idrissi@example.com,Biologie,12.0
+27,Benabid,Nabil,nabil.benabid@example.com,Chimie,15.0
+28,Chakir,Asma,asma.chakir@example.com,Physique,14.0
+29,El Khatib,Yassine,yassine.khatib@example.com,Informatique,20.0
+30,Ouazzani,Lamia,lamia.ouazzani@example.com,Math,19.0
+31,lmliwi,ziad,ziadlmliwi@gmail.com,MATH,2.0
+32,benbaha,mouna,spicycoco@gmail.com,Biologie,18.0
+33,El Amrani,Reda,reda.amrani@example.com,Math,17.0
+34,El Fakir,Sofia,sofia.fakir@example.com,Physique,15.0
+35,Tazi,Oussama,oussama.tazi@example.com,Informatique,19.0
+36,Kettani,Nadia,nadia.kettani@example.com,Chimie,14.0
+37,Essaidi,Hicham,hicham.essaidi@example.com,Biologie,13.0
+38,Bakkali,Rim,rim.bakkali@example.com,Math,20.0
+39,Hamdi,Ilyas,ilyas.hamdi@example.com,Physique,16.0
+40,Idriss,Hajar,hajar.idriss@example.com,Chimie,18.0
+41,El Kholti,Karim,karim.kholti@example.com,Informatique,17.0
+42,Fadili,Samir,samir.fadili@example.com,Math,15.0
+43,Rhouni,Yasmine,yasmine.rhouni@example.com,Physique,19.0
+44,Essafi,Amine,amine.essafi@example.com,Biologie,12.0
+45,Mernissi,Laila,laila.mernissi@example.com,Math,14.0
+46,Bourkadi,Tarik,tarik.bourkadi@example.com,Chimie,16.0
+47,Jabiri,Soukaina,soukaina.jabiri@example.com,Physique,20.0
+48,Zaidi,Saad,saad.zaidi@example.com,Informatique,18.0
+49,El Harrak,Rachida,rachida.harrak@example.com,Biologie,15.0
+50,Abkari,Younes,younes.abkari@example.com,Math,17.0
+51,Benmoussa,Siham,siham.benmoussa@example.com,Math,18.0
+52,El Ouardi,Tariq,tariq.elouardi@example.com,Physique,14.0
+53,Hassani,Malak,malak.hassani@example.com,Chimie,17.0
+54,El Yousfi,Ismail,ismail.elyousfi@example.com,Informatique,19.0
+55,Bouazza,Salwa,salwa.bouazza@example.com,Biologie,15.0
+56,El Majdoub,Yassin,yassin.elmajdoub@example.com,Math,16.0
+57,Toufik,Hanae,hanae.toufik@example.com,Physique,18.0
+58,El Bachir,Nizar,nizar.elbachir@example.com,Chimie,12.0
+59,Oubella,Rania,rania.oubella@example.com,Informatique,20.0
+60,Ziani,Adnane,adnane.ziani@example.com,Biologie,14.0
+61,El Hamdani,Meriem,meriem.elhamdani@example.com,Math,19.0
+63,Kabbaj,Nada,nada.kabbaj@example.com,Chimie,18.0
+64,Idrissi,Fouad,fouad.idrissi@example.com,Informatique,17.0
+65,Bennis,Lina,lina.bennis@example.com,Biologie,13.0
+66,Amrani,Omar,omar.amrani@example.com,Math,20.0
+67,El Arabi,Sara,sara.elarabi@example.com,Physique,15.0
+68,Mezzour,Karim,karim.mezzour@example.com,Chimie,14.0
+69,Boutaleb,Hicham,hicham.boutaleb@example.com,Informatique,19.0

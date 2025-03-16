@@ -1,0 +1,28 @@
+<table class="table table-striped table-dark">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Email</th>
+            <th>Matière</th>
+            <th>Note</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for etudiant in etudiants %}
+        <tr>
+            <td>{{ etudiant.ID }}</td>
+            <td>{{ etudiant.Nom }}</td>
+            <td>{{ etudiant.Prénom }}</td>
+            <td>{{ etudiant.Email }}</td>
+            <td>{{ etudiant.Matière }}</td>
+            <td>{{ etudiant.Note }}</td>
+            <td>
+                <a href="/supprimer/{{ etudiant.ID }}" class="btn btn-info btn-sm">Supprimer</a>
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Ajouter un Étudiant{% endblock %}
+
+{% block content %}
+<div class="card">
+    <div class="card-header bg-info text-white">
+        <h3>Ajouter un Étudiant</h3>
+    </div>
+    <div class="card-body text-white">
+        <form method="POST">
+            <div class="mb-3">
+                <label class="form-label">Nom :</label>
+                <input type="text" name="nom" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Prénom :</label>
+                <input type="text" name="prenom" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email :</label>
+                <input type="email" name="email" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Matière :</label>
+                <input type="text" name="matiere" class="form-control" required>
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Note :</label>
+                <input type="number" name="note" step="0.1" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-info">Ajouter</button>
+            <a href="{{ url_for('index') }}" class="btn btn-secondary">Retour</a>
+        </form>
+    </div>
+</div>
+{% endblock %}
